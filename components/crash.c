@@ -90,7 +90,7 @@ void odds() {
         printf("\n");
     }
 
-    printf("%s%s%.2f\n",spaces, randomFloat);
+    printf("%s%.2f\n",spaces, randomFloat);
 }
 
 
